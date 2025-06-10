@@ -5,7 +5,7 @@
 **Linux (Ubuntu/Debian):**
 ```bash
 sudo apt-get update
-sudo apt-get install portaudio19-dev python3-pyaudio
+sudo apt-get install portaudio19-dev python3-pyaudio flac
 ```
 ### Dependencias de Python
 ```bash

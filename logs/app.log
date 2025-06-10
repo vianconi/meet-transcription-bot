@@ -1,0 +1,107 @@
+2025-06-10 15:17:49 - meet_transcription_bot - INFO - Iniciando servidor en 127.0.0.1:8000
+2025-06-10 15:17:49 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 15:17:49 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 15:19:45 - meet_transcription_bot - INFO - Reunión creada: 1
+2025-06-10 15:35:19 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 15:35:20 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 15:35:20 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 15:35:44 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 15:35:45 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 15:35:45 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 15:39:09 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 15:39:10 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 15:39:10 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 15:42:49 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 15:42:51 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 15:42:51 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 15:43:04 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 15:43:05 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 15:43:05 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 15:43:41 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 15:43:42 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 15:43:42 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 15:46:04 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 15:46:06 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 15:46:06 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 15:46:22 - meet_transcription_bot - INFO - Dispositivos de audio disponibles:
+2025-06-10 15:46:22 - meet_transcription_bot - INFO -   [0] vc4-hdmi-1: MAI PCM i2s-hifi-0 (hw:1,0) - Canales: 0 - Rate: 44100.0
+2025-06-10 15:46:22 - meet_transcription_bot - INFO -   [1] Logitech USB Headset: Audio (hw:2,0) - Canales: 1 - Rate: 44100.0
+2025-06-10 15:46:22 - meet_transcription_bot - INFO -   [2] pulse - Canales: 32 - Rate: 44100.0
+2025-06-10 15:46:22 - meet_transcription_bot - INFO -   [3] default - Canales: 32 - Rate: 44100.0
+2025-06-10 15:52:44 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 16:01:45 - meet_transcription_bot - INFO - Dispositivos de audio disponibles:
+2025-06-10 16:01:45 - meet_transcription_bot - INFO -   [0] vc4-hdmi-1: MAI PCM i2s-hifi-0 (hw:1,0) - Canales: 0 - Rate: 44100.0
+2025-06-10 16:01:45 - meet_transcription_bot - INFO -   [1] Logitech USB Headset: Audio (hw:2,0) - Canales: 1 - Rate: 44100.0
+2025-06-10 16:01:45 - meet_transcription_bot - INFO -   [2] pulse - Canales: 32 - Rate: 44100.0
+2025-06-10 16:01:45 - meet_transcription_bot - INFO -   [3] default - Canales: 32 - Rate: 44100.0
+2025-06-10 16:02:20 - meet_transcription_bot - INFO - Captura de audio iniciada (dispositivo: 1)
+2025-06-10 16:02:20 - meet_transcription_bot - INFO - AudioManager iniciado para reunión 999
+2025-06-10 16:02:26 - meet_transcription_bot - INFO - Audio guardado en: output/audio/meeting_999_20250610_160226.wav
+2025-06-10 16:02:31 - meet_transcription_bot - INFO - Audio guardado en: output/audio/meeting_999_20250610_160231.wav
+2025-06-10 16:02:36 - meet_transcription_bot - INFO - Audio guardado en: output/audio/meeting_999_20250610_160236.wav
+2025-06-10 16:02:41 - meet_transcription_bot - INFO - Audio guardado en: output/audio/meeting_999_20250610_160241.wav
+2025-06-10 16:02:46 - meet_transcription_bot - INFO - Audio guardado en: output/audio/meeting_999_20250610_160246.wav
+2025-06-10 16:02:51 - meet_transcription_bot - INFO - Captura de audio detenida
+2025-06-10 16:02:51 - meet_transcription_bot - INFO - Audio guardado en: output/audio/meeting_999_20250610_160251.wav
+2025-06-10 16:02:51 - meet_transcription_bot - INFO - AudioManager detenido
+2025-06-10 16:05:05 - meet_transcription_bot - INFO - Iniciando servidor en 127.0.0.1:8000
+2025-06-10 16:05:06 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 16:05:06 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 16:05:21 - meet_transcription_bot - INFO - Audio guardado en: output/test_tone.wav
+2025-06-10 16:05:34 - meet_transcription_bot - INFO - Dispositivos de audio disponibles:
+2025-06-10 16:05:34 - meet_transcription_bot - INFO -   [0] vc4-hdmi-1: MAI PCM i2s-hifi-0 (hw:1,0) - Canales: 0 - Rate: 44100.0
+2025-06-10 16:05:34 - meet_transcription_bot - INFO -   [1] Logitech USB Headset: Audio (hw:2,0) - Canales: 1 - Rate: 44100.0
+2025-06-10 16:05:34 - meet_transcription_bot - INFO -   [2] pulse - Canales: 32 - Rate: 44100.0
+2025-06-10 16:05:34 - meet_transcription_bot - INFO -   [3] default - Canales: 32 - Rate: 44100.0
+2025-06-10 16:05:39 - meet_transcription_bot - INFO - Captura de audio iniciada (dispositivo: 1)
+2025-06-10 16:05:39 - meet_transcription_bot - INFO - AudioManager iniciado para reunión 1
+2025-06-10 16:05:44 - meet_transcription_bot - INFO - Audio guardado en: output/audio/meeting_1_20250610_160544.wav
+2025-06-10 16:05:49 - meet_transcription_bot - INFO - Captura de audio detenida
+2025-06-10 16:05:49 - meet_transcription_bot - INFO - Audio guardado en: output/audio/meeting_1_20250610_160549.wav
+2025-06-10 16:05:49 - meet_transcription_bot - INFO - AudioManager detenido
+2025-06-10 16:21:14 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 16:21:15 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 16:21:15 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 16:28:29 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 17:06:27 - meet_transcription_bot - INFO - Iniciando servidor en 127.0.0.1:8000
+2025-06-10 17:06:28 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 17:06:28 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 17:06:43 - meet_transcription_bot - INFO - Dispositivos de audio disponibles:
+2025-06-10 17:06:43 - meet_transcription_bot - INFO -   [0] vc4-hdmi-1: MAI PCM i2s-hifi-0 (hw:1,0) - Canales: 0 - Rate: 44100.0
+2025-06-10 17:06:43 - meet_transcription_bot - INFO -   [1] Logitech USB Headset: Audio (hw:2,0) - Canales: 1 - Rate: 44100.0
+2025-06-10 17:06:43 - meet_transcription_bot - INFO -   [2] pulse - Canales: 32 - Rate: 44100.0
+2025-06-10 17:06:43 - meet_transcription_bot - INFO -   [3] default - Canales: 32 - Rate: 44100.0
+2025-06-10 17:06:48 - meet_transcription_bot - INFO - Captura de audio iniciada (dispositivo: 1)
+2025-06-10 17:06:48 - meet_transcription_bot - INFO - AudioManager iniciado para reunión 1000
+2025-06-10 17:06:53 - meet_transcription_bot - INFO - Audio guardado en: output/audio/meeting_1000_20250610_170653.wav
+2025-06-10 17:06:53 - meet_transcription_bot - ERROR - Error procesando audio: no running event loop
+2025-06-10 17:06:58 - meet_transcription_bot - INFO - Audio guardado en: output/audio/meeting_1000_20250610_170658.wav
+2025-06-10 17:06:58 - meet_transcription_bot - ERROR - Error procesando audio: no running event loop
+2025-06-10 17:07:03 - meet_transcription_bot - INFO - Audio guardado en: output/audio/meeting_1000_20250610_170703.wav
+2025-06-10 17:07:03 - meet_transcription_bot - ERROR - Error procesando audio: no running event loop
+2025-06-10 17:07:08 - meet_transcription_bot - INFO - Captura de audio detenida
+2025-06-10 17:07:08 - meet_transcription_bot - INFO - Audio guardado en: output/audio/meeting_1000_20250610_170708.wav
+2025-06-10 17:07:08 - meet_transcription_bot - INFO - AudioManager detenido
+2025-06-10 17:07:08 - meet_transcription_bot - INFO - Transcribiendo: output/audio/meeting_1000_20250610_170708.wav
+2025-06-10 17:07:08 - meet_transcription_bot - ERROR - Error transcribiendo audio: FLAC conversion utility not available - consider installing the FLAC command line application by running `apt-get install flac` or your operating system's equivalent
+2025-06-10 17:07:08 - meet_transcription_bot - INFO - Transcripción: [Error]
+2025-06-10 17:09:38 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 17:14:19 - meet_transcription_bot - INFO - Iniciando servidor en 127.0.0.1:8000
+2025-06-10 17:14:20 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 17:14:20 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 17:53:58 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 17:54:00 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 17:54:00 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 17:54:55 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 17:54:56 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 17:54:56 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 18:01:12 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 18:01:13 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 18:01:13 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 18:01:54 - meet_transcription_bot - INFO - AudioManager detenido
+2025-06-10 18:05:20 - meet_transcription_bot - INFO - Cerrando aplicación...
+2025-06-10 18:05:22 - meet_transcription_bot - INFO - Iniciando Meet Transcription Bot v1.0.0
+2025-06-10 18:05:22 - meet_transcription_bot - INFO - Base de datos inicializada
+2025-06-10 18:06:35 - meet_transcription_bot - INFO - AudioManager iniciado para reunión 1000
+2025-06-10 18:06:55 - meet_transcription_bot - INFO - AudioManager detenido
+2025-06-10 18:08:16 - meet_transcription_bot - INFO - Cerrando aplicación...
