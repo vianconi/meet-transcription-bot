@@ -1,0 +1,25 @@
+{
+    "audio": {
+        "sample_rate": 16000,
+        "channels": 1,
+        "buffer_size": 1024,
+        "device_index": null
+    },
+    "transcription": {
+        "language": "es-ES",
+        "interval_seconds": 5,
+        "enable_speaker_identification": true
+    },
+    "automation": {
+        "wait_timeout": 30,
+        "headless_mode": false,
+        "auto_join": true,
+        "retry_attempts": 3
+    },
+    "output": {
+        "format": "txt",
+        "include_timestamps": true,
+        "include_statistics": true,
+        "encryption_enabled": false
+    }
+}
